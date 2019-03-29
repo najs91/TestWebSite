@@ -1,0 +1,16 @@
+#index {
+    .container {
+        text-align: center;
+
+        h1 {
+            color: yellow;
+        }
+
+        .nav-button{
+            background: yellow;
+            border: 1px solid gray;
+            border-radius: 10px 10px 0 0;
+            height: 50px;
+        }
+    }
+}
